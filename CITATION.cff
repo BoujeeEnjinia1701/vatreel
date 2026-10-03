@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use or build on this design, please cite it as below."
+type: software
+title: "VatReel"
+abstract: "Moves hides and yarn through pits and dye vats on a hand-cranked reel so hands never enter the liquor."
+authors:
+  - given-names: Amish
+    family-names: Chadha
+    affiliation: Design Molecule
+    orcid: "https://orcid.org/0009-0000-8079-7141"
+repository-code: "https://github.com/BoujeeEnjinia1701/vatreel"
+url: "https://designmolecule.com"
+license: CERN-OHL-S-2.0
+keywords:
+  - open-hardware
+  - tanneries
+  - hand-dyeing
+  - occupational-safety
+  - hand-powered
+  - advanced-manufacturing

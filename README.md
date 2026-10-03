@@ -6,6 +6,8 @@
 
 Moves hides and yarn through pits and dye vats on a hand-cranked reel so hands never enter the liquor.
 
+> CONCEPT, NOT FOR FABRICATION. VatReel is a TRL 3 design on paper: it has not been built or tested.
+
 ![VatReel: hand-cranked reel frame that moves hides and yarn through a pit, product render](media/render-hero.png)
 
 [Concept render](media/hero.png) · [Exploded view](media/exploded.png) · [Interactive 3D model](media/viewer.html) · [Concept blueprint (PDF)](media/concept-blueprint.pdf) · [General arrangement VTR-DWG-001 (PDF)](cad/drawings/VTR-DWG-001.pdf) · [Sizing note VTR-CAL-001](docs/04-calcs/01-sizing.md) · [Prototype build plan](docs/05-build-plan.md) · [Design decisions](docs/06-design-decisions.md) · [Review note](docs/REVIEW.md)
